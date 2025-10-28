@@ -2,7 +2,7 @@
   My name is Diego, nice to meet you! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 </h1>
 
-Since i was a kid, i was passionate about being a biologist. Now, i'm currently making myself a **Bioinformatician**, you could say i'm really passionate about researching between larges amount of data and finding my way to the knowledge. My current medium term goal is to be able to work in the biotech field, more specifically in the **omic data analysis**, **computational biology** and **developing tools** for biotech buddies.
+Since i was a kid, i was passionate about being a biologist. Now, i'm currently making myself a **Bioinformatician**, you could say i'm really passionate about researching between larges amount of data and finding my way to the knowledge. My current medium term goal is to be able to work in the biotech field, more specifically in the **omic data analysis**, **computational biology** and **developing bioinformatician tools**.
 
 My current trajectory is in its beggining phase, i have a Bachelor's Degree in Biology and a Application Web Development certificate. Nonetheless, if you are looking for a **analitical**, **curious** and **stubborn** person, feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/d-maquieira/).
 
