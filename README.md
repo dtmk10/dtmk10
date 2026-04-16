@@ -8,7 +8,7 @@ My current trajectory is in its beggining phase, i have a Bachelor's Degree in B
 
 ## Current Objectives
 
-- Adquiring more expertise in R and Python.
+- Learn how to use Docker.
 - I'm currently focused in making this a potential portfolio, since im not a Bioinformatician yet this may seem a bit empty, so this is a WIP still.
 
 
